@@ -1,2 +1,2 @@
 # AmanNet-secure-Network
-Secure enterprise network simulation using Cisco Packet Tracer, VLANs, inter-VLAN routing, and ACLs for network access control
+Designed and simulated a secure enterprise network using Cisco Packet Tracer. Implemented VLAN segmentation, inter-VLAN routing, and Access Control Lists (ACLs) to restrict unauthorized access. Tested network connectivity to verify security rules.
